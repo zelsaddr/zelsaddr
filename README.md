@@ -1,5 +1,5 @@
 <!-- ![Header image](https://i.ibb.co/HY3CNCb/image.png) -->
-<img align='center' src='https://i.ibb.co/sytvPmL/image.png'>
+<img align='center' src='https://i.ibb.co/sytvPmL/image.png' width='1024' height='768'>
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
