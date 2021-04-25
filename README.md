@@ -13,4 +13,4 @@ cuma tukang recode.
 - Web Development
 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zelsaddr&layout=compact&theme=tokyonight'>
-<img align='left' src='https://github-readme-stats.vercel.app/api?username=zelsaddr&layout=compact&theme=tokyonight' width='415'>
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=zelsaddr&layout=compact&theme=tokyonight' width='380' height='400'>
