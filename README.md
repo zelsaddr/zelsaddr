@@ -1,7 +1,7 @@
 <!-- ![Header image](https://i.ibb.co/HY3CNCb/image.png) -->
 <img align='center' src='https://i.ibb.co/jfDBZw7/rsz-60851104b6280.png' width='1400' height='300'>
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-cuma tukang recode.
+<p align='center'><i>cuma tukang recode.</i></p>
 
 <img align='right' src='https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif' width='200"'>
 
