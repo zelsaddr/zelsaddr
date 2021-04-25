@@ -12,6 +12,6 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 - Automation
 - Web Development
 
-# STATS
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=zelsaddr&show_icons=true&theme=tokyonight'>
+<hr>
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zelsaddr&layout=compact&theme=tokyonight'>
