@@ -4,4 +4,8 @@
     <a href="https://instagram.com/zeldin.me" target="_blank"><img src="https://img.shields.io/badge/@zeldin.me-30302f?style=flat&logo=instagram" /></a>
     <img src="https://gpvc.arturio.dev/zelsaddr" />
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelsaddr&count_private=true)
+
+# STATS
+```md
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+```
