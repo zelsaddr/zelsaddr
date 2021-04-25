@@ -13,6 +13,6 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 - Web Development
 
 # STATS
-<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zelsaddr&layout=compact&theme=tokyonight' width='1400' height='300'>
+<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zelsaddr&layout=compact&theme=tokyonight' width='300' height='300'>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelsaddr&layout=compact&theme=tokyonight)
 ![zeldin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelsaddr&show_icons=true&theme=radical)
