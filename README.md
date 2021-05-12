@@ -9,7 +9,6 @@
 [![Website Badge](https://img.shields.io/badge/-ijel.me-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://ijel.me/)](https://ijel.me/)
 ## ⚡ Domains:
 - Internet of Things
-- Automation
-- Web Development
+- Browser Automation
 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zelsaddr&layout=compact&theme=tokyonight'>
