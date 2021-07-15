@@ -1,5 +1,5 @@
 <!-- ![Header image](https://i.ibb.co/HY3CNCb/image.png) -->
-<img align='center' src='https://i.ibb.co/tC68trQ/Purple-and-Orange-Clean-and-Bold-Vaccine-Information-General-Health-Banner-1.png' width='1400' height='300'>
+<img align='center' src='https://i.ibb.co/tC68trQ/Purple-and-Orange-Clean-and-Bold-Vaccine-Information-General-Health-Banner-1.png'>
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 <p align='center'><i>cuma tukang recode.</i></p>
 
