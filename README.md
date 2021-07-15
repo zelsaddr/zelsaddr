@@ -10,5 +10,5 @@
 ## ⚡ Domains:
 - Internet of Things
 - Browser Automation Testing
-
+- Website Security (basic)
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zelsaddr&layout=compact&theme=tokyonight'>
