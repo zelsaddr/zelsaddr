@@ -7,8 +7,4 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-zeldin.me-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zeldin.me/)](https://www.instagram.com/roshanjayraj/)
 [![Website Badge](https://img.shields.io/badge/-ijel.me-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://ijel.me/)](https://ijel.me/)
-## ⚡ Domains:
-- Internet of Things
-- Browser Automation Testing
-- Website Security (basic)
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zelsaddr&layout=compact&theme=tokyonight'>
